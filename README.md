@@ -9,4 +9,4 @@ I am a newbie to data science and machine learning, and will be attempting to wo
 5. Cleaning Data
 6. Choosing the Best Model
 7. Creating Submission File
-Any and all feedback is welcome!
+8. Any and all feedback is welcome!
